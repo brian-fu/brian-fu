@@ -5,18 +5,6 @@ I'm an aspiring 🚀 Software Engineer currently seeking Summer 2025 Internship/
 📱 Videofy – A web application that transforms PDFs into highly engaging study videos 
 🌐 Leetcode PVP – A web application that supports peer-to-peer connection enabling users to gamify the Leetcode grind by competing with friends.
 
-
-## 🛠️ My Tech Stack  
-
-💻 **Frontend:** React, Tailwind CSS, HTML
-
-🛠️ **Backend:** Python, Flask, Node.js, Express, Java 
-
-📦 **Database:** MongoDB, Firebase  
-
-🛠 **Tools:** Git, VS Code, Cursor, Linux OS, Shell Scripting, Prompt Engineering
-
-
 ## 🎯 Learning & Goals  
 
 ✅ Deepen knowledge in AI & APIs for full-stack developemnt
