@@ -28,7 +28,8 @@ I'm an aspiring Software Engineer currently seeking Summer 2025 Internship/Co-op
 Check out my repositories or reach out for collaboration!  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-fu-4a3b89204/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:098brian.jfuu@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-fu-4a3b89204/) [![email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:b6fu@uwaterloo.ca)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/brian.fuu)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
