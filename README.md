@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brian Fu
 
-I'm an aspiring 🚀 Software Engineer currently seeking Summer 2025 Internship/Co-op Opportunities. Here are my latest project:
+I'm a Computer Science student at the University of Waterloo and an aspiring 🚀 Software Engineer currently seeking Summer 2025 Internship/Co-op Opportunities. Here are my latest projects:
 
 📱 Videofy – A web application that transforms PDFs into highly engaging study videos 
 🌐 Leetcode PVP – A web application that supports peer-to-peer connection enabling users to gamify the Leetcode grind by competing with friends.
@@ -10,13 +10,8 @@ I'm an aspiring 🚀 Software Engineer currently seeking Summer 2025 Internship/
 ✅ Deepen knowledge in AI & APIs for full-stack developemnt
 
 ## 📫 Let's Connect!  
-
-Check out my repositories or reach out for collaboration!  
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-fu-4a3b89204/) 
 [![email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:b6fu@uwaterloo.ca) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/brian.fuu)
 
 
 # 💻 Tech Stack:
