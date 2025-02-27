@@ -12,7 +12,7 @@ I'm an aspiring Software Engineer currently seeking Summer 2025 Internship/Co-op
 
 💻 **Frontend:** React, Tailwind CSS, HTML
 
-🛠️ **Backend:** Python, Flask, Node.js, Express, C++, Java 
+🛠️ **Backend:** Python, Flask, Node.js, Express, Java 
 
 📦 **Database:** MongoDB, Firebase  
 
@@ -34,6 +34,8 @@ Check out my repositories or reach out for collaboration!
 
 
 # 💻 Tech Stack:
+
+### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
