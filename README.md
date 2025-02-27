@@ -16,7 +16,7 @@ I'm an aspiring Software Engineer currently seeking Summer 2025 Internship/Co-op
 
 📦 **Database:** MongoDB, Firebase  
 
-🛠 **Tools:** Git, VS Code, Linux OS, Shell Scripting
+🛠 **Tools:** Git, VS Code, Cursor, Linux OS, Shell Scripting, Prompt Engineering
 
 
 ## 🎯 Learning & Goals  
