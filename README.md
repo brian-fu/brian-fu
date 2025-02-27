@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Brian Fu
 
-🚀 Aspiring Software Engineer | 🤖 Interested in AI
-
-I'm an aspiring Software Engineer currently seeking Summer 2025 Internship/Co-op Opportunities. Here are my latest project:
+I'm an aspiring 🚀 Software Engineer currently seeking Summer 2025 Internship/Co-op Opportunities. Here are my latest project:
 
 📱 Videofy – A web application that transforms PDFs into highly engaging study videos 
 🌐 Leetcode PVP – A web application that supports peer-to-peer connection enabling users to gamify the Leetcode grind by competing with friends.
