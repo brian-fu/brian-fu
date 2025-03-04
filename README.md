@@ -16,13 +16,41 @@ I'm a Computer Science student at the University of Waterloo and an aspiring ðŸš
 
 # ðŸ’» Tech Stack:
 ### Frontend: 
+- Javascript
+- Typescript
+- HTML
+- CSS
+- Next.js
+  
+
+
+### Backend:
+- Python
+- Java
+- Node.js
+- Next.js
+- Express.js
+- Flask
+- C
+- C++
+
+### Database:
+- SQL
+- PostgreSQL
+- Firebase
+
+
+### Tools
+- Git
+- Linux
+- GPT-4
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
 
-### Backend:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
@@ -34,12 +62,10 @@ I'm a Computer Science student at the University of Waterloo and an aspiring ðŸš
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### Database:
 ![SQL](https://img.shields.io/badge/sql-%230066B8.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 
-### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![GPT-4](https://img.shields.io/badge/OpenAI_GPT--4-412991.svg?style=for-the-badge&logo=openai&logoColor=white) 
