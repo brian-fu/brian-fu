@@ -21,11 +21,8 @@ I'm a Computer Science student at the University of Waterloo and an aspiring ðŸš
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-- Javascript
-- Typescript
-- HTML
-- CSS
-- Next.js
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+- Javascript, Typescript, HTML, CSS, React, Next.js
   
 
 
@@ -39,22 +36,13 @@ I'm a Computer Science student at the University of Waterloo and an aspiring ðŸš
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- Python
-- Java
-- Node.js
-- Next.js
-- Express.js
-- Flask
-- C
-- C++
+- Python, Java, Node.js, Next.js, Express.js, Flask, C, C++
 
 ### Database:
 ![SQL](https://img.shields.io/badge/sql-%230066B8.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-- SQL
-- PostgreSQL
-- Firebase
+- SQL, PostgreSQL, Firebase
 
 
 ### Tools
@@ -64,9 +52,7 @@ I'm a Computer Science student at the University of Waterloo and an aspiring ðŸš
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Racket](https://img.shields.io/badge/racket-%23A00000.svg?style=for-the-badge&logo=racket&logoColor=white) 
-- Git
-- Linux
-- GPT-4
+- Git, Linux, GPT-4, Bash, Shell Script, Racket
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Le0wang06&icon=0&color=0)](https://visitcount.itsvg.in)
