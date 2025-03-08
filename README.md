@@ -40,9 +40,8 @@ I'm a Computer Science student at the University of Waterloo and an aspiring ðŸš
 
 ### Database:
 ![SQL](https://img.shields.io/badge/sql-%230066B8.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-- SQL, PostgreSQL, Firebase
+- SQL, Firebase
 
 
 ### Tools
