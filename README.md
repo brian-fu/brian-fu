@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Brian Fu
 
-I'm a Computer Science student at the University of Waterloo and an aspiring 🚀 Software Engineer currently seeking Summer 2025 Internship/Co-op Opportunities. Here are my latest projects:
+I'm a Computer Science student at the University of Waterloo working as a Software Engineer Intern at WSIB, leveraging Springboot and React to develop full-stack solutions. Here are my latest projects:
 
 📱 Videofy – A web application that transforms PDFs into highly engaging study videos 
-🌐 Leetcode PVP – A web application that supports peer-to-peer connection enabling users to gamify the Leetcode grind by competing with friends.
+🌐 Leetcode PVP – A web application that supports peer-to-peer connection, enabling users to gamify the Leetcode grind by competing with friends.
 
 ## 🎯 Learning & Goals  
 
