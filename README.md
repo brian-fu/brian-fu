@@ -11,3 +11,5 @@ Here are the latest projects I've been working on:
   2. [Puckdle](https://github.com/brian-fu/puckdle): A hockey -dle style game that allows users to guess players based on their shot silhouette
   3. [Videofy](https://github.com/brian-fu/videofy): A web-app that converts PDF files to engaging videos, which can be used for study material
   4. [LeetcodePVP](https://github.com/brian-fu/leetcodepvp): A live compettive coding game that allows users to compete to solve DSA problems
+
+I'm currently seeking Winter 2026 and Summer 2026 Internships! 
