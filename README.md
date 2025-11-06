@@ -17,11 +17,6 @@ For more projects, visit my repositories
 
 <div align="left">
   <img 
-    src="https://streak-stats.demolab.com?user=brian-fu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
-    alt="streak graph" 
-    style="height: 160px;" 
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-fu&show_icons=true&locale=en&layout=compact&theme=dark" 
     alt="brian-fu" 
     style="height: 160px;" 
